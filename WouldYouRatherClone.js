@@ -2,7 +2,7 @@
 function CreateQuestion() {
 	var x = document.getElementById("Question_Form").getElementsByTagName("input");
 	var field = "";
-	var input = ""
+	var input = "";
 	var QForm = {};
   	var QFormJson = {};
 	var i;
