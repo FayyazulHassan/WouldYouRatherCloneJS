@@ -4,7 +4,7 @@ function CreateQuestion() {
 	var field = "";
 	var input = ""
 	var QForm = {};
-  var QFormJson = {};
+  	var QFormJson = {};
 	var i;
 	for (i = 0; i < x.length-1 ;i++) {
 		
